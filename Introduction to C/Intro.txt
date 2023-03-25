@@ -1,0 +1,3 @@
+*C is a Programming Language developed by Dennis Ritchie in 1972.
+*Major parts of Windows, Linux and other operating systems are written in C language.
+*Used to write driver programs for devices like Printers, Tablets, etc.
