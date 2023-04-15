@@ -2,7 +2,7 @@
 
 int main()
 {
-    int n, i, count = 0, l=1;
+    int n, i, count = 1;
     char flag = 'N';
     printf("Enter a number \n");
     scanf("%d", &n);
@@ -10,7 +10,7 @@ int main()
     if(n!=1 && n!=0){   
 
         for(i=2; i<n; i++){
-             printf("loop count %d\n", l++);
+             // printf("loop count %d\n", count++); shows loop count
             if(n%i==0 ){
                 flag = 'Y';
                 break;
