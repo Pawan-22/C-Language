@@ -26,8 +26,8 @@ int main()
         printf("%d ",a );
         c = a + b;
         a = b;
-         b = c;
-         i++;
+        b = c;
+        i++;
     }
 return 0;
 }
